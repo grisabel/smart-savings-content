@@ -1,0 +1,241 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsstory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-05 15:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: newsstory"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgid ", "
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:76
+#, php-format
+msgid "0 Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: 404.php:16
+msgid "404 Error Page"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Add social section options"
+msgstr ""
+
+#: functions.php:132
+msgid "Add widgets here."
+msgstr ""
+
+#. Author of the theme
+msgid "ashathemes"
+msgstr ""
+
+#: 404.php:27
+msgid "Back To Home"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Blogpage Settings"
+msgstr ""
+
+#: inc/header/header-1.php:56
+msgid "Close Menu"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-list.php:80 template-parts/content-search.php:76
+#: template-parts/content.php:76
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:110 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Grid Blog"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ashathemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://ashathemes.com/index.php/product/newsstory-personal-blog-wordpress-"
+"theme"
+msgstr ""
+
+#: inc/footer/footer-1.php:13
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Instagram Url"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: index.php:28
+msgid "Latest News"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "List Blog"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:99
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. Name of the theme
+msgid "Newsstory"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Newsstory Theme is wordpress blog theme for personal use. Fully responsive "
+"design displays beautifully across desktop, mobile, and all devices. Easy "
+"installation allows you to start post blogs immediately after the activation."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:26
+msgid "Page not found!"
+msgstr ""
+
+#: template-parts/content-list.php:94 template-parts/content-page.php:26
+#: template-parts/content-search.php:90 template-parts/content.php:90
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: inc/footer/footer-1.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. %s: search query.
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Select blog settings from here."
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Select blog style"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Select blog style from here."
+msgstr ""
+
+#: functions.php:130
+msgid "Sidebar"
+msgstr ""
+
+#: inc/header/header-1.php:11
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Social Options"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: inc/footer/footer-1.php:21
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Type your facebook profile link."
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Type your instagram profile link."
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Type your linkedin profile link."
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Type your twitter profile link."
+msgstr ""
