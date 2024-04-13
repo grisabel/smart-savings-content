@@ -16,10 +16,6 @@ function newsstory_footer_style_1(){ ?>
 						printf( esc_html__( 'Proudly powered by %s', 'newsstory' ), 'WordPress' );
 						?>
 					</a>
-					<p><?php
-						/* translators: 1: Theme name, 2: Theme author. */
-						printf( esc_html__( 'Theme: %1$s by %2$s.', 'newsstory' ), 'newsstory', 'ashathemes' );
-						?></p>
 				</div>
 			</div>
 		</div>

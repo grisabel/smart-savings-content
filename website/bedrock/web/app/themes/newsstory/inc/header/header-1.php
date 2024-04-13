@@ -41,10 +41,8 @@ function newsstory_header_style_1(){ ?>
 						$link_url = get_theme_mod('link_url');
 						$instagram_url = get_theme_mod('instagram_url');
 						?>
-	                    <li><a href="<?php echo esc_url($fb_url); ?>"><i class="fa fa-facebook-f"></i></a></li>
-	                    <li><a href="<?php echo esc_url($tw_url); ?>"><i class="fa fa-twitter"></i></a></li>
-	                    <li><a href="<?php echo esc_url($link_url); ?>"><i class="fa fa-linkedin"></i></a></li>
-	                    <li><a href="<?php echo esc_url($instagram_url); ?>"><i class="fa fa-instagram"></i></a></li>
+	                    <li><a href="<?php echo esc_url($fb_url); ?>"><i class="fa fa-info"></i></a></li>
+	                    <li><a href="<?php echo esc_url($tw_url); ?>"><i class="fa fa-user-o"></i></a></li>
 	                </ul>
 				</div>
 			</div>
