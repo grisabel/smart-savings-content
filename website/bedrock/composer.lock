@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "717a9c8bf7ea30c16e5f0ec166d30062",
+    "content-hash": "9c73bc7041e276db8a0066b1256d7b7f",
     "packages": [
         {
             "name": "composer/installers",
@@ -1093,6 +1093,24 @@
                 }
             ],
             "time": "2023-11-12T22:43:29+00:00"
+        },
+        {
+            "name": "wpackagist-theme/newsstory",
+            "version": "1.0.2",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/newsstory/",
+                "reference": "1.0.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/newsstory.1.0.2.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/newsstory/"
         },
         {
             "name": "wpackagist-theme/twentytwentyfour",
